@@ -1,7 +1,6 @@
-# DemoApp
+# NewsWebapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
-A demo webapp for reading news.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0. A demo webapp for reading news.
 
 ## Development server
 
